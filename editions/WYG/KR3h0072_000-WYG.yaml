@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0072/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳神秘要
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:47.469030'
+  source:
+    repository: kanripo
+    path: KR3h0072/KR3h0072_000.txt
+hash: sha256:4e01d46f600e3ae2ecc7cf6a5b2b3f8b96fc11677dd7d26a6cebf31732fdbe0e

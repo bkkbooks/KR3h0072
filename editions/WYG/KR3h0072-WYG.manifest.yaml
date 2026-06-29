@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR3h0072/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0072/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳神秘要
+  date: '2015-08-24 23:16:47.469030'
+  source:
+    repository: kanripo
+    path: KR3h0072
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0072_000-WYG.yaml, hash: 'sha256:4e01d46f600e3ae2ecc7cf6a5b2b3f8b96fc11677dd7d26a6cebf31732fdbe0e'}
+  - {seq: 1, filename: KR3h0072_001-WYG.yaml, hash: 'sha256:08ea85b16123110432c0c0b5974bffba67ce9f07548b949767f6cabcb3c15e98'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3h0072_001-WYG.markers.yaml, hash: 'sha256:a22b30e35666902339a6c5c6c7d4315a0a8a957da9161242aa1cec832028dbcb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3h0072_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4304
+  label: 傳神秘要
+  type: section
+  level: 1
+hash: sha256:c1083bd0883f42d1e645dd7e24385c47d58c9b731471c1f49d0d85e580949887
