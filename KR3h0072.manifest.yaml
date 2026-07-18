@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3h0072_000.yaml, hash: 'sha256:c6c13cb76ad8a31d4046611a1a3aabf8f6a08229d5169243236237155db9e654'}
   - {seq: 1, filename: KR3h0072_001.yaml, hash: 'sha256:a399bdf98dd1e9efb2b4e3ca7bad2b5956a7a91f49ff4ab75cfa49e4c76ae31a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0072_001.markers.yaml, hash: 'sha256:6f7102ef5a79290f2c4f46dec44c09b639bf8855c8f6a95440e4d2feb8bcd2cd'}
+  - {seq: 1, role: markers, filename: assets/KR3h0072_001.markers.yaml, hash: 'sha256:77864d49cc6b40073d6e65301eb5d3ea57d48e41f88e6e69ad7960ca77a6b654'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,7 @@ table_of_contents:
   label: 傳神秘要
   type: section
   level: 1
-hash: sha256:f7c577c3b5813b8489b59038370d2bbbac7a4d4c12343f6822a3a08183ffb2f5
+hash: sha256:26e0e5e85eb0b81e65b70143c4e0d6a60f2df8142ee0b6fa362ba57167176489
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
